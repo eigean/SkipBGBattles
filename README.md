@@ -8,7 +8,7 @@ The software allows to skip bg battles in 1 click, without any dances with a tam
 
 ## How to use it
 
-1. Download it.
+1. [Download it.](https://github.com/eigean/SkipBGBattles/releases/tag/Release)
 2. Run the program.
 3. Run HS, then go to BG
 4. Wait for battle
